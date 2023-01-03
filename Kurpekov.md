@@ -1,0 +1,1 @@
+Тестирование pull request. seminar 2. gr 3784
